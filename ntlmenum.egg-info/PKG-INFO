@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: ntlmenum
+Version: 1.0.0
+Summary: NTLM authentication endpoint enumerator for penetration testing
+License: MIT
+Requires-Python: >=3.10
+Requires-Dist: httpx[http2]>=0.27.0
